@@ -75,3 +75,4 @@ Then run your server with:
 ```
 npm start
 ```
+Execute your query by visiting the [url](http://127.0.0.1:4000)
